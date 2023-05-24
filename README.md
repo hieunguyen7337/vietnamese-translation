@@ -1,4 +1,4 @@
-# Speech recognition vietnamese
+# Vietnamese translation
 ## Description 
 This is a Python repo for vietnamese-english translation using the `envit5-translation` model develop by VietAI.
 
